@@ -1,1 +1,1 @@
-Task 2
+Smiley face
