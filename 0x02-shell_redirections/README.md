@@ -1,1 +1,1 @@
-shell redirection,task 0
+Write a script that prints hello world folowed by a line to the standard output
